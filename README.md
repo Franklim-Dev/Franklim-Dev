@@ -36,15 +36,6 @@ Actualmente estoy enfocado en aprender **Rust** y **Python** para construir herr
 
 ---
 
-### 📊 Estadísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Franklim-Dev&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franklim-Dev&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</div>
-
----
-
 ### 🎯 Mis metas y proyectos
 
 - 🖥️ **Aplicaciones de escritorio**: Crear herramientas rápidas, eficientes y que funcionen offline con **Tauri** y **Rust**.
